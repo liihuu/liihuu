@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m liihuu, a pupil who likes to write bugs.😄
 
 <!--
 **liihuu/liihuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
