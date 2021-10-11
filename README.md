@@ -2,7 +2,7 @@
 I’m liihuu, a pupil who likes to write bugs.😄
 
 
-### ⏱ Weekly coding time
+#### ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
