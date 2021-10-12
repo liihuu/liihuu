@@ -5,7 +5,10 @@ I’m liihuu, a pupil who likes to write bugs.😄
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 October, 2021 - 11 October, 2021
+
+JavaScript   26 mins         ████████████████░░░░░░░░░   64.09 % 
+Markdown     14 mins         █████████░░░░░░░░░░░░░░░░   35.64 % 
 ```
 <!--END_SECTION:waka-->
 
