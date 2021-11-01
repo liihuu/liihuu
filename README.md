@@ -5,7 +5,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
 JSX          1 hr 28 mins    █████████████▓░░░░░░░░░░░   54.01 % 
 JavaScript   30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 % 
