@@ -5,7 +5,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 JavaScript   13 hrs 57 mins  ████████████████████████▓   98.89 % 
 LESS         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
