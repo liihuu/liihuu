@@ -6,7 +6,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 July 2022 - To: 15 July 2022
+From: 09 July 2022 - To: 16 July 2022
 
 Markdown     1 hr 10 mins    ██████████████████▓░░░░░░   74.11 %
 XML          12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
