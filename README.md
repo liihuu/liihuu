@@ -6,10 +6,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
-
-TypeScript   3 hrs 36 mins   █████████████████▒░░░░░░░   68.85 %
-JavaScript   1 hr 38 mins    ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
