@@ -18,6 +18,9 @@ JSON         7 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+#### 🏆 Profile trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=liihuu&margin-w=16&margin-h=16&rank=-C,-B)]()
+
 <!--
 **liihuu/liihuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
