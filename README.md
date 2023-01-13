@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![visitor](https://visitor-badge.glitch.me/badge?page_id=liihuu&right_color=blue)](https://github.com/liihuu)<br>
 I’m liihuu, a pupil who likes to write bugs.😄
 
 
