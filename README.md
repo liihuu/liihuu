@@ -11,7 +11,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2023 - To: 31 March 2023
+From: 25 March 2023 - To: 01 April 2023
 
 JavaScript   1 hr 34 mins    ███████▓░░░░░░░░░░░░░░░░░   31.01 %
 Markdown     1 hr 31 mins    ███████▓░░░░░░░░░░░░░░░░░   30.22 %
