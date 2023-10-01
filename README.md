@@ -11,7 +11,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2023 - To: 29 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
 Markdown     1 hr 34 mins    ██████████████▒░░░░░░░░░░   57.72 %
 Vue.js       27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
