@@ -11,7 +11,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
 Vue.js       54 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
 JavaScript   43 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
