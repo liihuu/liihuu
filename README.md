@@ -7,7 +7,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 [![trophy](https://github-profile-trophy.vercel.app?username=liihuu&margin-w=16&margin-h=16&rank=-C,-B)](https://github.com/liihuu)
 
 #### 🔥 Streak stats
-<img src="https://streak-stats.demolab.com?user=liihuu&theme=transparent&border_radius=6&card_width=600" alt="liihuu" />
+<img src="https://streak-stats.demolab.com?user=liihuu&theme=transparent&border_radius=6&card_width=500" alt="liihuu" />
 
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
