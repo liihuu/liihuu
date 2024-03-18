@@ -1,11 +1,13 @@
 ### Hi there 👋
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=liihuu&right_color=blue)](https://github.com/liihuu)<br>
+<img src="https://komarev.com/ghpvc/?username=liihuu&label=Profile%20views&color=0e75b6&style=flat" alt="liihuu" />
 I’m liihuu, a pupil who likes to write bugs.😄
 
 
 #### 🏆 Profile trophy
 [![trophy](https://github-profile-trophy.vercel.app?username=liihuu&margin-w=16&margin-h=16&rank=-C,-B)](https://github.com/liihuu)
 
+#### 🔥 Streak stats
+<img src="https://streak-stats.demolab.com?user=liihuu&theme=transparent&border_radius=6&card_width=600" alt="liihuu" />
 
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
@@ -20,6 +22,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 
 <!--
 **liihuu/liihuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
