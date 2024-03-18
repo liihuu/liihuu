@@ -2,6 +2,12 @@
 <img src="https://komarev.com/ghpvc/?username=liihuu&label=Profile%20views&color=0e75b6&style=flat" alt="liihuu" />
 I’m liihuu, a pupil who likes to write bugs.😄
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pboling/pboling/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pboling/pboling/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 #### 🏆 Profile trophy
 [![trophy](https://github-profile-trophy.vercel.app?username=liihuu&margin-w=16&margin-h=16&rank=-C,-B)](https://github.com/liihuu)
