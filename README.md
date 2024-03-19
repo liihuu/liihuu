@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=liihuu&label=Profile%20views&color=0e75b6&style=flat" alt="liihuu" />
+<img src="https://komarev.com/ghpvc/?username=liihuu&label=Profile%20views&style=flat&base=119527" alt="liihuu" />
 I’m liihuu, a pupil who likes to write bugs.😄
 
 <picture>
