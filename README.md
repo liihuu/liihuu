@@ -3,8 +3,8 @@
 I’m liihuu, a pupil who likes to write bugs.😄
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/liihuu/liihuu/tree/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/liihuu/liihuu/tree/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/liihuu/liihuu/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/liihuu/liihuu/raw/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/liihuu/liihuu/tree/output/github-snake.svg" />
 </picture>
 
