@@ -19,7 +19,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2024 - To: 01 August 2024
+From: 26 July 2024 - To: 02 August 2024
 
 JSON         19 mins         █████████████░░░░░░░░░░░░   51.62 %
 JavaScript   12 mins         ████████▓░░░░░░░░░░░░░░░░   34.61 %
