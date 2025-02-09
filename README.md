@@ -19,7 +19,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2025 - To: 07 February 2025
+From: 01 February 2025 - To: 08 February 2025
 
 TypeScript   2 hrs 15 mins   ████████████████████████▓   99.32 %
 JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
