@@ -19,7 +19,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2025 - To: 01 August 2025
+From: 26 July 2025 - To: 02 August 2025
 
 Dart       2 hrs 30 mins   ██████████████████▓░░░░░░   74.44 %
 Vue.js     35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
