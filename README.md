@@ -19,7 +19,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
 Markdown     47 mins         ████████████▒░░░░░░░░░░░░   48.72 %
 TypeScript   38 mins         █████████▓░░░░░░░░░░░░░░░   39.16 %
