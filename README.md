@@ -19,7 +19,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
 Vue.js       2 hrs           ██████████████████▒░░░░░░   73.15 %
 JavaScript   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
