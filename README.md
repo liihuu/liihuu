@@ -19,9 +19,11 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2025 - To: 18 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
-No activity tracked
+Markdown     37 mins         ███████████████▒░░░░░░░░░   61.36 %
+TypeScript   21 mins         █████████░░░░░░░░░░░░░░░░   35.79 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
