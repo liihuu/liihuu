@@ -19,7 +19,7 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
 Vue          1 hr 40 mins          █████████████████████░░░░   83.52 %
 JavaScript   10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
