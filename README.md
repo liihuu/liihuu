@@ -19,13 +19,11 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2026 - To: 04 September 2026
+From: 29 August 2026 - To: 05 September 2026
 
-Markdown     20 mins               ███████████████▒░░░░░░░░░   61.28 %
-TypeScript   7 mins                ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-JSON         2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Less         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Svelte       1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Markdown     10 mins               █████████████████▓░░░░░░░   70.65 %
+TypeScript   2 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+JSON         2 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
 ```
 
 <!--END_SECTION:waka-->
