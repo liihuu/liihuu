@@ -19,9 +19,10 @@ I’m liihuu, a pupil who likes to write bugs.😄
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2026 - To: 29 September 2026
+From: 23 September 2026 - To: 30 September 2026
 
-JavaScript   1 min                 █████████████████████████   100.00 %
+TypeScript   26 mins               ████████████████████▒░░░░   81.96 %
+JavaScript   5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
 ```
 
 <!--END_SECTION:waka-->
