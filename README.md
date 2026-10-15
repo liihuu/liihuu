@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=liihuu&label=Profile%20views&style=flat&base=119527" alt="liihuu" />
-I’m liihuu, creator & maintainer of [KLineChart](https://github.com/klinecharts/KLineChart)
+I’m liihuu, creator & maintainer of KLineChart.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/liihuu/liihuu/raw/output/github-snake-dark.svg" />
