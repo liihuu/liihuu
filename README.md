@@ -19,12 +19,11 @@ I’m liihuu, creator & maintainer of KLineChart.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2026 - To: 23 October 2026
+From: 17 October 2026 - To: 24 October 2026
 
-Markdown     10 mins               ████████████▒░░░░░░░░░░░░   49.21 %
-TypeScript   8 mins                █████████▓░░░░░░░░░░░░░░░   39.06 %
-Other        1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-JSON         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Markdown     10 mins               ███████████████████████▓░   95.12 %
+JSON         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
